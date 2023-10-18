@@ -1,5 +1,9 @@
 Навигационное меню
-===
+[![ra-router](https://github.com/bas27/ra-router-menu-9.1/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/ra-router-menu-9.1/actions/workflows/web.yml)
+
+
+https://bas27.github.io/ra-router-menu-9.1/
+
 
 Необходимо реализовать меню для сайта гоночного такси с пунктами «Главная», «Дрифт-такси», «Time Attack» и «Forza Karting». При переходе на страницу соответствующий пункт меню должен подсветиться:  
 
